@@ -3,7 +3,9 @@ import React from "react";
 function Footer() {
   return (
     <div>
-      <h1>Footer</h1>
+      <p className="text-sm mt-2 opacity-50">
+        &copy; {new Date().getFullYear()} Gurman Toor. All rights reserved.
+      </p>
     </div>
   );
 }

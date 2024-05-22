@@ -5,7 +5,7 @@ function Intro() {
       <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
         <img
           className="w-40 h-40 rounded-full ring-2 ring-gray-800 dark:ring-gray-500"
-          src="/src/assets/intropic.jpg"
+          src="/assets/intropic.jpg"
           alt="Rounded avatar"
         ></img>
         <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">
