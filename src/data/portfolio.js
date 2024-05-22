@@ -33,11 +33,13 @@ export default [
     imgUrl: "/assets/InstaLike_Logo_150x150.png",
     stack: ["Python", "Selenium"],
     link: "https://github.com/GurmanToor/InstaLike",
+    description: "A Python script that automates the process of liking Instagram posts based on a given hashtag. This was one of my favourite projects to work on as I actually made this for a close friend to boost his Instagram engagement!",
   },
   {
     title: "Portfolio Website",
     imgUrl: "/assets/portfolio-image.png",
     stack: ["Javascript", "React", "Tailwind CSS", "Vite"],
     link: "https://github.com/GurmanToor/portfolio-website",
+    description: "The website you're currently on! I built this website to showcase my projects and to give a little more insight into who I am as a person."
   },
 ];
