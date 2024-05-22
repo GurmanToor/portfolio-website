@@ -18,7 +18,7 @@ function Intro() {
           University of Manitoba, Graduating April 2025
         </p>
         <p className="text-sm max-w-xl mb-6 font-bold">
-          Hello! I'm Gurman, a computer science co-op student at the University
+          Hello! My name is Gurman, a computer science co-op student at the University
           of Manitoba. I'm currently exploring different aspects of computer
           science, but I've really enjoyed tackling data science topics,
           front-end development and API development so far! Welcome to my
